@@ -6,6 +6,9 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
+import "@fontsource/playfair-display";
+import "@fontsource/quicksand";
+
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],

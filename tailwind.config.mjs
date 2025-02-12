@@ -10,6 +10,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "custom-blue": "rgba(8, 167, 206, 0.4)",
+        "border-blue": "rgba(8, 167, 206, 1)",
+      },
+      fontFamily: {
+        playfair: ["Playfair Display", "serif"],
+        quicksand: ["Quicksand", "sans-serif"],
       },
     },
   },
